@@ -1,7 +1,7 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
+        "device_id": "803b5a30cb26ffef",
+        "key": "12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
@@ -10,17 +10,5 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-{
-        "device_id": "803b5a30cb26ffef",
-        "key": "key67890",
-        "expirydate": "15-11-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "803b5a30cb26ffef",
-        "key": "h12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
     },
 ]
